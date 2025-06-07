@@ -1,10 +1,12 @@
 Machine Learning Daily Practice
+
 Welcome to my Machine Learning repository! This repository contains my daily practice code as 
 I learn and explore various machine learning concepts, techniques, and algorithms. 
 I am documenting my progress and sharing the code to track my learning journey and to possibly help others who are also on a similar path.
 
 
 Overview
+
 In this repository, you will find the code and notes related to my daily practice in machine learning. The main focus areas include:
 
 -> Supervised Learning
